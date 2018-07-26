@@ -1,5 +1,6 @@
-body
+body {
   font-size: 14px;
+  width: 100%;
 }
 
 /*nav bar styling*/
@@ -19,7 +20,7 @@ section {
 
 /*font styling*/
 h1 {
-  font-family:; sans-serif;
+  font-family: sans-serif;
   font-size: 2em;
 }
 
